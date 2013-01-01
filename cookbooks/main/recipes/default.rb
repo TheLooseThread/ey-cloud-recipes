@@ -5,7 +5,7 @@
 #end
 
 # jhk - set timezone to pacific
-require_recipe "timezone"
+#require_recipe "timezone"
 
 # uncomment to turn on thinking sphinx/ultra sphinx. Remember to edit cookbooks/sphinx/recipes/default.rb first!
 # require_recipe "sphinx"
